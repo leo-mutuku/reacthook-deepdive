@@ -1,5 +1,8 @@
 import React from "react";
 
+// Create a component
+// state property initilized to 0
+// a way to update that state property
 class ClassCounter extends React.Component {
     constructor(props){
         super(props)
